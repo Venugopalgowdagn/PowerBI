@@ -1,10 +1,11 @@
-***PEW_Group_Reoprt
+***Projects
 
 
-The sole purpose of the report is to refresh my Power BI skillset. The aim was to design and deliver professional-quality, end-to-end business intelligence solutions for PEW, a global manufacturing company.
+--The sole purpose of the report is to refresh my Power BI skillset. The aim was to design and deliver professional-quality, end-to-end business intelligence solutions.
 
+**The direct access to the reports:
 
-The link to the report--https://tinyurl.com/PewReoprt2
+1) The link to the PEW report(Manufacturing company) --https://tinyurl.com/PewReoprt2
 
 **Note->Desktop view recommended.
 
