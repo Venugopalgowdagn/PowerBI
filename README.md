@@ -14,13 +14,13 @@ Steps taken:
     
     Data Sources:    
                     
-                    *SQL Database
+                      *SQL Database
     
-                     *Web scraping using Python
+                      *Web scraping using Python
                      
-                     *Excel
+                      *Excel
                      
-                     *Kaggle etc.
+                      *Kaggle etc.
 
 2) Build a Relational Data Model.
 
