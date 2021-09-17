@@ -1,4 +1,4 @@
-###Projects
+##Projects
 
 --The sole purpose of these projects is to refresh my Power BI skillset. The aim was to design and deliver professional-quality, end-to-end business intelligence solutions.
 
