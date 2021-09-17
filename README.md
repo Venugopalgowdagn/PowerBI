@@ -22,12 +22,12 @@ Steps taken:
                      
                       *Kaggle etc.
 
-2) Build a Relational Data Model.
+2) Build a Relational Data Models.
 
 3) Add Calculated Fields with DAX.
 
-4) Build Interactive Power BI report.
+4) Build Interactive Power BI reports.
 
-5) Publishing the report to the Power Bi service(Cloud).
+5) Publishing the reports to the Power Bi service (Cloud).
 
-6) Making the report available online. (Access through the link attached)
+6) Making the reports available online. (Access through the links attached)
