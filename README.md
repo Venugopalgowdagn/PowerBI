@@ -10,7 +10,11 @@
 
 Steps taken:
 
-1) Connect and Transform raw data from various sources (SQL Database, Web scraping, Excel etc)
+1) Connect and Transform raw data from various sources.
+    Data Sources: *SQL Database
+                  *Web scraping using Python
+                  *Excel
+                  *Kaggle etc.
 
 2) Build a Relational Data Model.
 
