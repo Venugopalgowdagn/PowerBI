@@ -10,7 +10,7 @@
 
 Steps taken:
 
-1) Connect and Transform raw data.
+1) Connect and Transform raw data from various sources (SQL Database, Web scraping, Excel etc)
 
 2) Build a Relational Data Model.
 
