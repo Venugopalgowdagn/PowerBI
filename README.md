@@ -1,6 +1,6 @@
 ***Projects
 
---The sole purpose of the projects is to refresh my Power BI skillset. The aim was to design and deliver professional-quality, end-to-end business intelligence solutions.
+--The sole purpose of these projects is to refresh my Power BI skillset. The aim was to design and deliver professional-quality, end-to-end business intelligence solutions.
 
 **The direct access to the reports:
 
