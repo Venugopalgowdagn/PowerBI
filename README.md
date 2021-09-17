@@ -11,8 +11,13 @@ https://tinyurl.com/PewReoprt2
 Steps taken:
 
 Connect and Transform raw data.
+
 Build a Relational Data Model.
+
 Add Calculated Fields with DAX.
+
 Build Interactive Power BI report.
+
 Publishing the report to the Power Bi service(Cloud).
+
 Making the report available online. (Access through the link attached)
