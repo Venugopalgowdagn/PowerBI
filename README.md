@@ -13,7 +13,8 @@ Steps taken:
 1) Connect and Transform raw data from various sources.
     
     Data Sources:    
-                     *SQL Database
+                    
+                    *SQL Database
     
                      *Web scraping using Python
                      
