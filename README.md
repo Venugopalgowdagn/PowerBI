@@ -4,7 +4,7 @@
 
 **The direct access to the reports:
 
-1) The link to the PEW report(Manufacturing company) --https://tinyurl.com/PewReoprt2
+1) The link to the PEW report (Manufacturing company) --https://tinyurl.com/PewReoprt2
 
 **Note->Desktop view recommended.
 
