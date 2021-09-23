@@ -2,9 +2,10 @@
 
 **Direct access to the reports:
 
-1) The link to the PEW report (Manufacturing company) --https://tinyurl.com/PewReoprt2
-2) The link to the Covid report.(2019-Present) -https://tinyurl.com/ReportCovid1
-3) The link to the Adventureworks AG (HR Analysis)-https://tinyurl.com/AdventureWorksAG
+1) The link to the Ecommerce Dashboard - https://tinyurl.com/EcommerceDashboard
+2) The link to the PEW report (Manufacturing company) -https://tinyurl.com/PewReoprt2
+3) The link to the Covid report.(2019-Present) -https://tinyurl.com/ReportCovid1
+4) The link to the Adventureworks AG (HR Analysis)-https://tinyurl.com/AdventureWorksAG
 
 **Note->Desktop view recommended.
 
