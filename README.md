@@ -17,7 +17,7 @@ Steps taken:
                     
                       *SQL Database
     
-                      *Web scraping using Python
+                      *Direct Query with cloudplatforms
                      
                       *Excel
                      
